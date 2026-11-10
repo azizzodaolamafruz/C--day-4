@@ -1,0 +1,14 @@
+c:\Users\Admin\Desktop\C#\day 4\obj\Debug\net10.0\day 4.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\Desktop\C#\day 4\obj\Debug\net10.0\day 4.AssemblyInfoInputs.cache
+c:\Users\Admin\Desktop\C#\day 4\obj\Debug\net10.0\day 4.AssemblyInfo.cs
+c:\Users\Admin\Desktop\C#\day 4\obj\Debug\net10.0\day 4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\day 4\bin\Debug\net10.0\day 4.exe
+C:\Users\Admin\Desktop\C#\day 4\bin\Debug\net10.0\day 4.deps.json
+C:\Users\Admin\Desktop\C#\day 4\bin\Debug\net10.0\day 4.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\day 4\bin\Debug\net10.0\day 4.dll
+C:\Users\Admin\Desktop\C#\day 4\bin\Debug\net10.0\day 4.pdb
+C:\Users\Admin\Desktop\C#\day 4\obj\Debug\net10.0\day 4.dll
+C:\Users\Admin\Desktop\C#\day 4\obj\Debug\net10.0\refint\day 4.dll
+C:\Users\Admin\Desktop\C#\day 4\obj\Debug\net10.0\day 4.pdb
+C:\Users\Admin\Desktop\C#\day 4\obj\Debug\net10.0\day 4.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\day 4\obj\Debug\net10.0\ref\day 4.dll
